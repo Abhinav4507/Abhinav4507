@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I' m  </h1>
+<h2 align="center">Hi there 👋, I' m  </h2>
 <h1 align="center">Abhinav Singh Sengar</h1>
 <h3 align="center">An Electronics Engineer passionate about software and Web development</h3>
 
