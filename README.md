@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 
 🚀Hi there! 
 
-I'm in my final year of a B.Tech program studying electronics and telecommunication @MITS Gwalior. During my time at college, I improved my leadership, teamwork, and communication abilities. 
-
-I have expertise in network analysis, signal processing, and circuit design. Antennas and wireless communication are my areas of interest. Eager to use my skills and passion to support a vibrant team in the telecom sector.
-
-Along with expanding my expertise in my primary field, I'm also learning DSA, Web developmeny, and database management systems.
+I’m an RF Engineer, focused on designing and developing high-frequency communication systems for satellite and aerospace applications. My work involves antenna design, microwave and RF system engineering, and electromagnetic simulations, with a strong interest in advanced communication technologies and reliable space-grade systems. I enjoy turning complex electromagnetic concepts into practical solutions that enable efficient and robust communication beyond Earth.
 
 
 
@@ -39,9 +35,11 @@ Along with expanding my expertise in my primary field, I'm also learning DSA, We
 
 ## Software and Tools
 
-- Visual Studio Code
-- PyCharm
-- Google Colab
+- CST Studio suite
+- MATLAB
+- Proteus 8
+- Keil Microvision
+- Origin Pro
   
 
 <h3 align="left">Languages and Tools:</h3>
