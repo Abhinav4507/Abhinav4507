@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <h2>About me</h2>
 
-<img align="right" alt ="coding" width = "400" src="https://www.vaihuti.com/media/blog/blog3.jpg">
 
 🚀Hi there! 
 
